@@ -1,0 +1,12 @@
+Hi. Thanks for taking the time to judge my entry!
+
+In the interest of fairness - 
+I have been working on the project prior to the game jam: 
+- Main Menu
+- Settings
+- Credits
+- Instructions
+
+I.e., not the game itself.
+Hope you enjoy it.
+Tim.
